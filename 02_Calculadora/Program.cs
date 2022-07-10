@@ -23,33 +23,53 @@ namespace Calculadora{
       }
       // subtracao
       if(operacao == "2"){
-      float resultado = number1 - number2;
+      float resultado = Subtracao(number1, number2);
       Console.WriteLine($"O resultado da operacao de subtracao com os numeros informados é: {resultado}");
       }
       // multiplicacao
       if(operacao == "3"){
-      float resultado = number1 * number2;
+      float resultado = Multiplicacao(number1, number2);
       Console.WriteLine($"O resultado da operacao de multiplicacao com os numeros informados é: {resultado}");
       }
       // divisao
       if(operacao == "4"){
-      float resultado = number1 / number2;
+      float resultado = Divisao(number1, number2);
       Console.WriteLine($"O resultado da divisão de resultado com os numeros informados é: {resultado}");
       }
        // resto da divisão
       if(operacao == "5"){
-      float resultado = number1 % number2;
+      float resultado = Resto(number1, number2);
       Console.WriteLine($"O resto da divisão entre os numeros os numeros informados é: {resultado}");
       }
       
        // potencia
       if(operacao == "6"){
-      double resultado = Math.Pow(number1, number2);
+      double resultado = Potencia(number1, number2);
       Console.WriteLine($"A potenciacao dos numeros informados é: {resultado}");
       }
       
       
       Console.ReadLine();
+    }
+    static float Soma(int num1, int num2){
+      return num1 + num2;
+    }
+       static float Subtracao(int num1, int num2){
+      return num1 - num2;
+    }
+     static float Multiplicacao(int num1, int num2){
+      return num1 * num2;
+    }
+       static float Divisao(int num1, int num2){
+      return num1 / num2;
+    }
+
+       static float Resto(int num1, int num2){
+      return num1 % num2;
+    }
+
+       static double Potencia(int num1, int num2){
+      return Math.Pow(num1, num2);
     }
   }
 }
