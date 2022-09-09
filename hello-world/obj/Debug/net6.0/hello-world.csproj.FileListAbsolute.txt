@@ -1,0 +1,15 @@
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/bin/Debug/net6.0/hello-world
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/bin/Debug/net6.0/hello-world.deps.json
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/bin/Debug/net6.0/hello-world.runtimeconfig.json
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/bin/Debug/net6.0/hello-world.dll
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/bin/Debug/net6.0/hello-world.pdb
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/obj/Debug/net6.0/hello-world.csproj.AssemblyReference.cache
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/obj/Debug/net6.0/hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/obj/Debug/net6.0/hello-world.AssemblyInfoInputs.cache
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/obj/Debug/net6.0/hello-world.AssemblyInfo.cs
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/obj/Debug/net6.0/hello-world.csproj.CoreCompileInputs.cache
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/obj/Debug/net6.0/hello-world.dll
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/obj/Debug/net6.0/refint/hello-world.dll
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/obj/Debug/net6.0/hello-world.pdb
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/obj/Debug/net6.0/hello-world.genruntimeconfig.cache
+/home/kissyla/Documents/estudar/CSharp-Iniciantes/hello-world/obj/Debug/net6.0/ref/hello-world.dll
